@@ -1,0 +1,14 @@
+Intermediate Project 
+1.Deploy a Web App to AWS Using Terraform
+2. Automate Database Backups with Shell Scripts
+3. CI/CD Pipeline for Microservices with Docker and Kubernetes
+
+Advanced level project 
+1.Build a Serverless CI/CD Pipeline on AWS Lambda
+2. Kubernetes Cluster Setup with Terraform and Ansible
+3. Automated Security Audits with OpenVAS or Clair
+4.Automated Performance Testing with JMeter in CI/CD Pipeline
+5.Multi-Cloud CI/CD Pipeline with Jenkins and Terraform
+
+final decide this projects 
+Multi-Cloud CI/CD Pipeline with Jenkins and Terraform

@@ -1,0 +1,35 @@
+we take two machine
+
+deb1 give static ip 192.168.100.100
+deb2 give static ip 192.168.100.101
+
+sudo apt update
+sudo apt install ansible -y
+sudo mkdir <folder_name>
+
+nano inventory.ini
+sudo nano inventory.ini
+sudo nano installapache2.yml
+
+ sudo nano /etc/default/locale
+ sudo update-locale
+ sudo reboot
+
+ssh-keygen -t rsa
+cd .ssh/
+cat id_rsa.pub
+
+ansible-playbook -i inventory.ini installapache2.yml
+
+
+
+
+
+deb - 2 machine
+
+ssh-keygen
+cd .ssh/
+ls
+nano authorized_keys
+cd
+sudo systemctl status apache2
